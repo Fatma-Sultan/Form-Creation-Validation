@@ -1,6 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Form selection
     const form = document.getElementById('registration-form');
+
+    document.addEventListener('DOMContentLoaded', () => {
+        // Your code that manipulates the DOM goes here
+        // For example, selecting elements and adding event listeners
+    });
     
     // Feedback division selection
     const feedbackDiv = document.getElementById('form-feedback');
